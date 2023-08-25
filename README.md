@@ -1,8 +1,20 @@
 # Hi there, I'm Aakash 👋
 
+<h3 align="center">A passionate software developer from India</h3>
+
+- 🔭 I’m currently working on [Inbriefs](https://github.com/itsaakashpatel/inbriefs-app)
+
+- 🌱 I’m currently learning **React Native, Docker, AWS**
+
+- 👨‍💻 All of my projects are available at [https://aakashpatel.in/portfolio](https://aakashpatel.in/portfolio)
+
+- 📝 I regularly write articles on [https://aakashpatel.in](https://aakashpatel.in)
+
+- 📫 You can reach me at **aakashpatel25274@gmail.com**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsaakashpatel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Programming Languages & Frameworks I work with...
+## Programming Languages & Frameworks:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -16,7 +28,7 @@
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-# 📕 Latest Blog Posts
+## 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Stop useEffect From Running on The First Render?](https://aakashpatel.in/how-to-stop-useeffect-from-running-on-the-first-render)
