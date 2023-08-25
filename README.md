@@ -19,4 +19,6 @@
 # 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Stop useEffect From Running on The First Render?](https://aakashpatel.in/how-to-stop-useeffect-from-running-on-the-first-render)
+- [Hello World  👋](https://aakashpatel.in/hello-world)
 <!-- BLOG-POST-LIST:END -->
