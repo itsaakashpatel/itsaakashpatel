@@ -1,7 +1,5 @@
 # Hi there, I'm Aakash 👋
 
-<h3 align="center">A passionate software developer from India</h3>
-
 - 🔭 I’m currently working on [Inbriefs](https://github.com/itsaakashpatel/inbriefs-app)
 
 - 🌱 I’m currently learning **React Native, Docker, AWS**
