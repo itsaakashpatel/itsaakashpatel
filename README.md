@@ -1,12 +1,10 @@
 # Hi there, I'm Aakash 👋
 
-- 🔭 I’m currently working on [Inbriefs](https://github.com/itsaakashpatel/inbriefs-app)
+- 🔭 I’m currently working on [Inbriefs](https://github.com/itsaakashpatel/inbriefs-app) - The ultimate news app that delivers concise news excerpts in just 100 words.
 
 - 🌱 I’m currently learning **React Native, Docker, AWS**
 
-- 👨‍💻 All of my projects are available at [https://aakashpatel.in/portfolio](https://aakashpatel.in/portfolio)
-
-- 📝 I regularly write articles on [https://aakashpatel.in](https://aakashpatel.in)
+- 📝 I write articles on [https://aakashpatel.in](https://aakashpatel.in)
 
 - 📫 You can reach me at **aakashpatel25274@gmail.com**
 
