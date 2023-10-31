@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Inbriefs](https://github.com/itsaakashpatel/inbriefs-app) - The ultimate news app that delivers concise news excerpts in just 100 words.
 
-- 🌱 I’m currently learning **React Native, Docker, AWS**
+- 🌱 I’m currently learning **React Native, Docker, Cloud**
 
 - 📝 I write articles on [https://aakashpatel.in](https://aakashpatel.in)
 
