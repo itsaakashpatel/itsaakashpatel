@@ -27,6 +27,7 @@
 ## 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Hooks and Prettier: Your Code&#39;s Best Friends](https://aakashpatel.in/git-hooks-and-prettier)
 - [Must-Have VSCode Extensions for React Developers](https://aakashpatel.in/must-have-vscode-extensions-for-react-developers)
 - [How to Stop useEffect From Running on The First Render?](https://aakashpatel.in/how-to-stop-useeffect-from-running-on-the-first-render)
 - [Hello World  👋](https://aakashpatel.in/hello-world)
