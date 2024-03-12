@@ -1,12 +1,11 @@
 # Hi there, I'm Aakash 👋
 
-- 🔭 I’m currently working on [Inbriefs](https://github.com/itsaakashpatel/inbriefs-app) - The ultimate news app that delivers concise news excerpts in just 100 words.
+I'm a Software Engineer, passionate about solving problems through code. In my spare time, I'm involved in writing blogs, side projects, volunteering, and contributing to open source.
 
-- 🌱 I’m currently learning **React Native, Docker, and Cloud**
-
-- 📝 I write articles on [https://aakashpatel.in](https://aakashpatel.in)
-
-- 📫 You can reach me at **aakashpatel25274@gmail.com**
+## Stuff I work on:
+- Inbriefs - The ultimate news app that delivers concise news excerpts in just 100 words.
+- Writing blogs at [aakashpatel.in](https://aakashpatel.in)
+- Contributing to open source: [hashnode-client](https://github.com/CreoWis/hashnode-client), [BioDrop](https://github.com/EddieHubCommunity/BioDrop)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsaakashpatel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
