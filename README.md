@@ -26,6 +26,7 @@ I'm a Software Engineer, passionate about solving problems through code. In my s
 ## 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Why are Headings Important for Web Accessibility?](https://aakashpatel.in/why-are-headings-important-for-web-accessibility/)
 - [Micro Frontend – Extending the Microservice Idea to Frontend Development](https://aakashpatel.in/understanding-micro-frontends/)
 - [Git Hooks and Prettier: Your Code’s Best Friends](https://aakashpatel.in/git-hooks-and-prettier/)
 - [Must-Have VSCode Extensions for React Developers](https://aakashpatel.in/must-have-vscode-extensions-for-react-developers/)
