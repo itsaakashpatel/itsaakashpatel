@@ -5,7 +5,6 @@ I'm a Software Engineer, passionate about solving problems through code. In my s
 ## Stuff I work on:
 - Inbriefs - The ultimate news app that delivers concise news excerpts in just 100 words.
 - Writing blogs at [aakashpatel.in](https://aakashpatel.in)
-- Contributing to open source: [hashnode-client](https://github.com/CreoWis/hashnode-client), [BioDrop](https://github.com/EddieHubCommunity/BioDrop)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsaakashpatel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,13 +21,3 @@ I'm a Software Engineer, passionate about solving problems through code. In my s
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-## 📕 Latest Blog Posts:
-
-<!-- BLOG-POST-LIST:START -->
-- [Why are Headings Important for Web Accessibility?](https://aakashpatel.in/why-are-headings-important-for-web-accessibility/)
-- [Micro Frontend – Extending the Microservice Idea to Frontend Development](https://aakashpatel.in/understanding-micro-frontends/)
-- [Git Hooks and Prettier: Your Code’s Best Friends](https://aakashpatel.in/git-hooks-and-prettier/)
-- [Must-Have VSCode Extensions for React Developers](https://aakashpatel.in/must-have-vscode-extensions-for-react-developers/)
-- [How to Stop useEffect From Running on The First Render?](https://aakashpatel.in/how-to-stop-useeffect-from-running-on-the-first-render/)
-<!-- BLOG-POST-LIST:END -->
