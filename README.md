@@ -2,12 +2,6 @@
 
 I'm a Software Engineer, passionate about solving problems through code. In my spare time, I'm involved in writing blogs, side projects, volunteering, and contributing to open source.
 
-## Stuff I work on:
-- Inbriefs - The ultimate news app that delivers concise news excerpts in just 100 words.
-- Writing blogs at [aakashpatel.in](https://aakashpatel.in)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsaakashpatel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Programming Languages & Frameworks:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
