@@ -1,4 +1,4 @@
-# Hi there, I'm Aakash 👋
+# Hi there, I'm AK 👋
 
 I'm a Software Engineer, passionate about solving problems through code. In my spare time, I'm involved in writing blogs, side projects, volunteering, and contributing to open source.
 
