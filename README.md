@@ -1,6 +1,6 @@
-# Hi there, I'm AK 👋
+# Hi there, I'm Aakash 👋
 
-I'm a Software Engineer, passionate about solving problems through code. In my spare time, I'm involved in writing blogs, side projects, volunteering, and contributing to open source.
+I'm a Software Engineer & Tech nerd, passionate about solving problems through code. In my spare time, I write blog posts, work on side projects, cook, and explore new ideas.
 
 ## Programming Languages & Frameworks:
 
